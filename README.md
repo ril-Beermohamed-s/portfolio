@@ -1,27 +1,14 @@
 # beermohamed.com — Next.js Portfolio
 
-This repository contains the **Next.js (App Router) build.**
+Modern Next.js (App Router) rebuild of https://beermohamed.com.
 
-The goal of this project is to modernize a static website using
-the **latest Next.js architecture**, while preserving the original design
-intent, simplicity, and performance.
+## Stack
+- Next.js 14 (App Router)
+- Tailwind CSS
+- Framer Motion
+- Static Export
 
----
-
-## ✨ Tech Stack
-
-- **Next.js 14** (App Router)
-- **React 18**
-- **Tailwind CSS**
-- **Framer Motion** (subtle animations)
-- **Static Export** (`output: export`)
-
-This project produces **pure static HTML/CSS/JS**, suitable for deployment
-on Vercel, Netlify, GitHub Pages, or S3.
-
----
-
-## 📂 Project Structure
-
-# portfolio
-Smart Portfolio for Next.js. Creative portfolio boilerplate built with Next.js. SEO-optimized, accessible, responsive.
+## Scripts
+npm install
+npm run dev
+npm run build
